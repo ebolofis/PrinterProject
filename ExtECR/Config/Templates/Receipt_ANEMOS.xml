@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<Report xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PrintType="1" Name="Receipt_ANEMOS" ReportType="1" MaxWidth="50">
+  <Section SectionName="Header" SectionType="0">
+    <Row>
+      <Column Text="        PELEMAR S.A.     " Width="45" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Middle" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="  ANEMOS LUXURY GRAND RESORT" Width="45" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Middle" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text=" ΞΕΝΟΔΟΧΕΙΑΚΗ  ΕΜΠΟΡΙΚΗ ΕΤΑΙΡΙΑ Α.Ε." Width="45" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Middle" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="      ΑΦΜ:998063265  ΔΟΥ ΑΒ ΧΑΝΙΩΝ    " Width="45" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Middle" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+	<Row>
+      <Column Text="==========================================" Width="42" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="@DepartmentTypeDescription" Width="40" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Middle" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="==========================================" Width="42" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="@ReceiptTypeDescription" Width="32" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@ReceiptNo" Width="6" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Right" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="==========================================" Width="42" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+  </Section>
+  <Section SectionName="Details" SectionType="5">
+    <Row>
+      <Column Text="@ItemQty" Width="5" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="x " Width="2" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@ItemDescr" Width="21" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@ItemGross" Width="8" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Middle" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@ItemVatDesc" Width="2" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Right" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="%" Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="ΕΚΠΤΩΣΗ ΕΙΔΟΥΣ           " Width="25" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@ItemDiscount" Width="11" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Right" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+  </Section>
+  <Section SectionName="Extras" SectionType="1">
+    <Row>
+      <Column Text="    " Width="4" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@ItemQty" Width="4" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text=" x " Width="3" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@ItemDescr" Width="17" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@ItemGross" Width="8" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Middle" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@ItemVatDesc" Width="2" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Right" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="%" Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+  </Section>
+  <Section SectionName="Discount Details" SectionType="13">
+    <Row>
+      <Column Text="ΕΚΠΤΩΣΗ " Width="8" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@ItemDescr" Width="20" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@ItemDiscount" Width="8" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Right" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+  </Section>
+  <Section SectionName="Discount" SectionType="12">
+    <Row>
+      <Column Text="ΕΚΠΤΩΣΗ ΑΠΟΔΕΙΞΗΣ        " Width="25" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@TotalDiscount" Width="11" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Right" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+  </Section>
+  <Section SectionName="SectionHeader" SectionType="9">
+    <Row>
+      <Column Text="==========================================" Width="42" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="ΣΥΝΟΛΟ                    " Width="26" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@Total" Width="10" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Right" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text=" Euro" Width="5" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+  </Section>
+  <Section SectionName="PaymentMethods" SectionType="17">
+    <Row>
+      <Column Text="@Description" Width="27" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text=" " Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="@Amount" Width="10" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Right" IsDoubleSize="false" />
+    </Row>   
+  </Section>
+  <Section SectionName="SectionHeader" SectionType="9">
+    <Row>
+      <Column Text="ΡΕΣΤΑ" Width="5" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@Change" Width="31" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Right" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="     " Width="5" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="ΣΕΡΒΙΤΟΡΟΣ: " Width="12" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@Waiter" Width="30" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="ΤΡΑΠΕΖΙ: " Width="9" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@TableNo" Width="10" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>    
+  </Section>
+  <Section SectionName="Customer" SectionType="14">
+    <Row>
+      <Column Text="ΔΩΜΑΤΙΟ: " Width="9" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@RoomNo" Width="6" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text=" ΠΕΛΑΤΗΣ: " Width="10" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@CustomerName" Width="17" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="                         " Width="25" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="0" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="SIGNATURE: ___________________________" Width="38" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Width="50" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="TIPS: " Width="6" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+  </Section>
+  <Section SectionName="Footer" SectionType="2">
+    <Row>
+      <Column Text="@SystemDate" Width="28" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" FormatOption="{0:d}" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text=" " Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@SystemTime" Width="10" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" FormatOption="{0:HH:mm}" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="                         " Width="25" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="[&lt;]" Width="3" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <!-- AFM EPIXEIRISHS -->
+      <Column Text="094519910" Width="9" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text=";;;" Width="3" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="@SystemDate" Width="8" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" FormatOption="{0:yyyyMMdd}" IsDoubleSize="false" />
+      <Column Text="@SystemTime" Width="4" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" FormatOption="{0:HHmm}" IsDoubleSize="false" />
+      <Column Text=";173;" Width="5" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+	  <Column Text="0;" Width="2" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="@ReceiptNo" Width="0" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text=";" Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="@TotalNetVat1" Width="0" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text=";" Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="@TotalNetVat2" Width="0" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text=";" Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="@TotalNetVat3" Width="0" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text=";" Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="@TotalNetVat4" Width="0" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text=";" Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="@TotalNetVat5" Width="0" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text=";" Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="@Vat1" Width="0" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text=";" Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="@Vat2" Width="0" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text=";" Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="@Vat3" Width="0" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text=";" Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="@Vat4" Width="0" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text=";" Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="@Total" Width="0" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text=";0" Width="2" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+      <Column Text="[&gt;]" Width="3" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+    </Row>
+	<Row>
+      <Column Text="                         " Width="25" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+   	<Row>
+      <Column Text=" " Width="4" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="0" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+  </Section>
+</Report>

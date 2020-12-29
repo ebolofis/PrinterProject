@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Report xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PrintType="1" Name="OposReceiptHotel" ReportType="1" MaxWidth="50">
+  <Section SectionName="OposComments" SectionType="11">
+    <Row>
+      <Column Text="ΣΕΡΒ: " Width="6" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@WaiterNo" Width="3" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Right" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="-" Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@Waiter" Width="15" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="ROOM   :" Width="9" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@RoomNo" Width="4" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="   NAME : " Width="10" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@CustomerName" Width="20" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text="ΝΕΟ ΥΠΟΛΟΙΠΟ ΤΡΑΠΕΖΙΟΥ: " Width="24" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@TableTotal" Width="10" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+  </Section>
+</Report>

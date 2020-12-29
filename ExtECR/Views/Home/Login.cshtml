@@ -1,0 +1,31 @@
+﻿@using ExtECR.Models
+
+@section head{
+    <link href="~/css/Views/Login.css" rel="stylesheet" />
+    <script src="~/js/Views/Login.js"></script>
+}
+
+<div class="login-container">
+    @{
+        LoginModel newLogin = new LoginModel();
+    }
+    <div class="login-form-container">
+        @(Html.DevExtreme().Form()
+            .ID("passwordInput")
+            .FormData(newLogin)
+            .LabelLocation(FormLabelLocation.Left)
+            .ShowColonAfterLabel(true)
+            .ReadOnly(false)
+            )
+    </div>
+    <div class="login-submit-container">
+        @(Html.DevExtreme().Button()
+            .ID("passwordSubmit")
+            .Icon("fas fa-sign-in-alt")
+            .Text("Submit")
+            .Type(ButtonType.Default)
+            .OnClick("loginUser")
+            )
+    </div>
+    <div id="formContainer"></div>
+</div>

@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<Report xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PrintType="1" Name="WaiterSummary" ReportType="3" MaxWidth="40">
+
+
+  <Section SectionName="Header" SectionType="0">
+
+    <Row>
+      <Column Text="REPORT: " Width="8" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="true" SkipZeroPrice="false" />
+      <Column Text="@ReportTitle" Width="20" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+    <Row>
+      <Column Text="====================================" Width="36" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+    <Row>
+      <Column Text="DEPARTMENT: " Width="12" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@DepartmentDesc" Width="15" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+    <Row>
+      <Column Text="DATE: " Width="6" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@SystemDate" Width="28" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" FormatOption="{0:D}" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+    <Row>
+      <Column Text="TIME: " Width="6" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@SystemTime" Width="10" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" FormatOption="{0:HH:mm}" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+    <Row>
+      <Column Text="WAITER: " Width="8" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@WaiterName" Width="25" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+    <Row>
+      <Column Text="COUVERS: " Width="9" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@Cover" Width="8" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+    <Row>
+      <Column Text=" TOTAL : " Width="9" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@ReportTotalAmount" Width="10" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Right" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+    <Row>
+      <Column Text=" ---------------------------------- " Width="36" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+  </Section>
+
+
+  <Section SectionName="Group Header" SectionType="26">
+
+    <Row>
+      <Column Text=" Type: " Width="7" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@PaymentDesc" Width="12" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="  Count: " Width="9" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@InvoicesCount" Width="10" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+    <Row>
+      <Column Text=" ---------------------------------- " Width="36" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+    <Row>
+      <Column Text=" Section Total: " Width="16" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text=" " Width="1" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+      <Column Text="@GroupTotalAmount" Width="10" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Right" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+  </Section>
+
+
+  <Section SectionName="Details" SectionType="5">
+
+    <Row>
+      <Column Text=" ---------------------------------- " Width="36" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+  </Section>
+
+
+  <Section SectionName="Group Footer" SectionType="27">
+
+    <Row>
+      <Column Text=" ================================== " Width="36" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+
+  </Section>
+
+
+  <Section SectionName="Footer" SectionType="2">
+    <Row>
+      <Column Text=" " Width="40" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text=" " Width="40" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+    <Row>
+      <Column Text=" " Width="40" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" SkipZeroPrice="false" />
+    </Row>
+  </Section>
+
+
+</Report>

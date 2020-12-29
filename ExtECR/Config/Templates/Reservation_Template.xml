@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<Report xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PrintType="1" Name="Reservation_Template" ReportType="4" MaxWidth="50">
+  <Section SectionName="Header" SectionType="0">
+    <Row>
+      <Column Text="       R E S E R V A T I O N   @Id" Width="50" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+    </Row>
+    <Row>
+      <Column Text="            @RestaurantName" Width="26" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+    </Row>
+    <Row>
+      <Column Text="      @ReservationDate" Width="29" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+    </Row>
+    <Row>
+      <Column Text="    Cover: @Couver" Width="34" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false"/>
+    </Row>
+    <Row>
+      <Column Text="==========================================" Width="42" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false"  />
+    </Row>
+  </Section>
+  <Section SectionName="Details" SectionType="5">
+    <Row>
+      <Column Text="Name: @ReservationName" Width="50" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false"  />
+    </Row>
+	<Row>
+      <Column Text="Room: @RoomNum" Width="25" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false"  />
+    </Row>
+	<Row>
+      <Column Text="==========================================" Width="42" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false"  />
+    </Row>
+  </Section>
+  <Section SectionName="Footer" SectionType="2">
+    <Row>
+      <Column Text="" Width="24" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+    </Row> 
+    <Row>
+      <Column Text="Printed at @CreateDate" Width="41" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="true" />
+    </Row>
+    <Row>
+      <Column Text="" Width="24" IsBold="false" IsUnderline="false" IsItalic="false" AlignOption="Left" IsDoubleSize="false" />
+    </Row>
+  </Section>
+</Report>

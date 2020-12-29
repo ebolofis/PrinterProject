@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKitchenPrinterModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>1</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Timologio2.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Receipt</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>16</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>XReport_Nikki.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>XReport</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>12</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>CrystalReport004.rpt</Template>
+    <IsCrystalReportsPrintout>true</IsCrystalReportsPrintout>
+    <PrinterType>General</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>1</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>WaiterDetails.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Report</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>2</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>WaiterSummary.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Report</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>2</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Timologio2.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Receipt</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>8</SlotIndex>
+    <Name>Microsoft Print to PDF</Name>
+    <EscapeCharsTemplate>Empty esc</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>ZReport_Nikki.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>ZReport</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>9</SlotIndex>
+    <Name>Microsoft Print to PDF</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Reservation_Template.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Reservation</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions>
+      <long>1</long>
+    </Regions>
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString>1</RegionsAsString>
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>2</SlotIndex>
+    <Name>Microsoft Print to PDF</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Reservation_Template.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Reservation</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions>
+      <long>1</long>
+    </Regions>
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString>1</RegionsAsString>
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>1</SlotIndex>
+    <Name>Microsoft Print to PDF</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>ZREPORTtemplate.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>ZReport</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions>
+      <long>1</long>
+    </Regions>
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString>1</RegionsAsString>
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>3</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Timologio2.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Receipt</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>1</SlotIndex>
+    <FiscalName>ExtECR-NEW</FiscalName>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Receipt_ANEMOS.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Receipt</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes xsi:nil="true" />
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines xsi:nil="true" />
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>16</SlotIndex>
+    <FiscalName>ExtECR-NEW</FiscalName>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>XReport_Nikki.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>XReport</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes xsi:nil="true" />
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines xsi:nil="true" />
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>12</SlotIndex>
+    <FiscalName>ExtECR-NEW</FiscalName>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>CrystalReport004.rpt</Template>
+    <IsCrystalReportsPrintout>true</IsCrystalReportsPrintout>
+    <PrinterType>General</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes xsi:nil="true" />
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines xsi:nil="true" />
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>1</SlotIndex>
+    <FiscalName>ExtECR-NEW</FiscalName>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>WaiterDetails.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Report</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes xsi:nil="true" />
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines xsi:nil="true" />
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>2</SlotIndex>
+    <FiscalName>ExtECR-NEW</FiscalName>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>WaiterSummary.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Report</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>3</SlotIndex>
+    <FiscalName>ExtECR-NEW</FiscalName>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Receipt_Nikki_with_VAT_analysis.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Receipt</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes xsi:nil="true" />
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines xsi:nil="true" />
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>8</SlotIndex>
+    <FiscalName>ExtECR-NEW</FiscalName>
+    <Name>Microsoft Print to PDF</Name>
+    <EscapeCharsTemplate>Empty esc</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>ZReport_Nikki.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>ZReport</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes xsi:nil="true" />
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines xsi:nil="true" />
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>9</SlotIndex>
+    <FiscalName>ExtECR-NEW</FiscalName>
+    <Name>Microsoft Print to PDF</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Reservation_Template.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Reservation</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes xsi:nil="true" />
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines xsi:nil="true" />
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>2</SlotIndex>
+    <FiscalName>ExtECR-NEW</FiscalName>
+    <Name>Microsoft Print to PDF</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Reservation_Template.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Reservation</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes xsi:nil="true" />
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines xsi:nil="true" />
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>1</SlotIndex>
+    <FiscalName>ExtECR-NEW</FiscalName>
+    <Name>Microsoft Print to PDF</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>ZREPORTtemplate.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>ZReport</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>6</SlotIndex>
+    <FiscalName>ExtECR-NEW</FiscalName>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Timologio.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Receipt</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>4</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Void_STRATOS.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Void</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>6</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Timologio2.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Receipt</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>2</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Timologio.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Receipt</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>5</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Void_STRATOS.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Void</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>11</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>PreBill_Report.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Report</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>12</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>PreBill_Report.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Report</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>4</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Timologio2.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Receipt</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>a3c065fd-0409-4bdc-878a-9d7042174167</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>1</SlotIndex>
+    <Name>Microsoft Print to PDF</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>KitchenCassioNew.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Kitchen</PrinterType>
+    <Groups>
+      <int>1</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>1</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>4</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Void_STRATOS.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Void</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>5</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Void_STRATOS.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Void</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+  <KitchenPrinterModel>
+    <FiscalId>3be26c4b-837a-44d2-8d37-219ca317c5f9</FiscalId>
+    <KitchenPrintTimes>1</KitchenPrintTimes>
+    <UseCutter xsi:nil="true" />
+    <KitchenHeaderGapLines>7</KitchenHeaderGapLines>
+    <UseBuzzer xsi:nil="true" />
+    <PrintSingleItem xsi:nil="true" />
+    <MergeSameCodes xsi:nil="true" />
+    <PrintKitchenOnly xsi:nil="true" />
+    <SlotIndex>4</SlotIndex>
+    <Name>Microsoft XPS Document Writer</Name>
+    <EscapeCharsTemplate>Casio Kitchen</EscapeCharsTemplate>
+    <PrinterCharsFormat>OEM</PrinterCharsFormat>
+    <Template>Timologio2.xml</Template>
+    <IsCrystalReportsPrintout>false</IsCrystalReportsPrintout>
+    <PrinterType>Receipt</PrinterType>
+    <Groups>
+      <int>0</int>
+    </Groups>
+    <Regions />
+    <GroupAsString>0</GroupAsString>
+    <RegionsAsString />
+    <TotalDiscount xsi:nil="true" />
+  </KitchenPrinterModel>
+</ArrayOfKitchenPrinterModel>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPrintResultModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PrintResultModel>
+    <Id>9877ad00-c164-43b6-90b1-82591232c779</Id>
+    <ReceiptReceiveType>WEB</ReceiptReceiveType>
+    <ProcessDateTime>2020-07-22T12:19:16.6272731+03:00</ProcessDateTime>
+    <ReceiptNo>311</ReceiptNo>
+    <OrderNo>3937</OrderNo>
+    <ReceiptData />
+    <Status>Failed</Status>
+    <ReceiptType>Receipt</ReceiptType>
+    <ExtcerType>Generic</ExtcerType>
+    <FiscalName>EXREC</FiscalName>
+    <InvoiceIndex>1</InvoiceIndex>
+    <IsInvoiceIndexError>false</IsInvoiceIndexError>
+    <rseq>0</rseq>
+    <IsReportIndexError>false</IsReportIndexError>
+    <ErrorDescription>The invoice type is not registered!</ErrorDescription>
+    <SecondaryPrintersList />
+    <ReceiptCultureInfo>el-GR</ReceiptCultureInfo>
+    <PrintType>PrintWhole</PrintType>
+  </PrintResultModel>
+  <PrintResultModel>
+    <Id>66bd99f5-6c38-4d9b-947d-7b14f59bbfb1</Id>
+    <ReceiptReceiveType>WEB</ReceiptReceiveType>
+    <ProcessDateTime>2020-07-22T12:19:33.8408534+03:00</ProcessDateTime>
+    <ReceiptNo>312</ReceiptNo>
+    <OrderNo>3938</OrderNo>
+    <ReceiptData />
+    <Status>Failed</Status>
+    <ReceiptType>Receipt</ReceiptType>
+    <ExtcerType>Generic</ExtcerType>
+    <FiscalName>EXREC</FiscalName>
+    <InvoiceIndex>1</InvoiceIndex>
+    <IsInvoiceIndexError>false</IsInvoiceIndexError>
+    <rseq>0</rseq>
+    <IsReportIndexError>false</IsReportIndexError>
+    <ErrorDescription>The invoice type is not registered!</ErrorDescription>
+    <SecondaryPrintersList />
+    <ReceiptCultureInfo>el-GR</ReceiptCultureInfo>
+    <PrintType>PrintWhole</PrintType>
+  </PrintResultModel>
+  <PrintResultModel>
+    <Id>b1c0a50c-1799-47bb-8adc-9ff7706e133d</Id>
+    <ReceiptReceiveType>WEB</ReceiptReceiveType>
+    <ProcessDateTime>2020-07-22T12:19:56.7065781+03:00</ProcessDateTime>
+    <ReceiptNo>313</ReceiptNo>
+    <OrderNo>3939</OrderNo>
+    <ReceiptData />
+    <Status>Failed</Status>
+    <ReceiptType>Receipt</ReceiptType>
+    <ExtcerType>Generic</ExtcerType>
+    <FiscalName>EXREC</FiscalName>
+    <InvoiceIndex>1</InvoiceIndex>
+    <IsInvoiceIndexError>false</IsInvoiceIndexError>
+    <rseq>0</rseq>
+    <IsReportIndexError>false</IsReportIndexError>
+    <ErrorDescription>The invoice type is not registered!</ErrorDescription>
+    <SecondaryPrintersList />
+    <ReceiptCultureInfo>el-GR</ReceiptCultureInfo>
+    <PrintType>PrintWhole</PrintType>
+  </PrintResultModel>
+  <PrintResultModel>
+    <Id>c6bc29d0-884c-4689-a472-96923afbdc27</Id>
+    <ReceiptReceiveType>WEB</ReceiptReceiveType>
+    <ProcessDateTime>2020-07-22T12:23:54.7738611+03:00</ProcessDateTime>
+    <ReceiptNo>314</ReceiptNo>
+    <OrderNo>3940</OrderNo>
+    <ReceiptData />
+    <Status>Failed</Status>
+    <ReceiptType>Receipt</ReceiptType>
+    <ExtcerType>Generic</ExtcerType>
+    <FiscalName>EXREC</FiscalName>
+    <InvoiceIndex>1</InvoiceIndex>
+    <IsInvoiceIndexError>false</IsInvoiceIndexError>
+    <rseq>0</rseq>
+    <IsReportIndexError>false</IsReportIndexError>
+    <ErrorDescription>The invoice type is not registered!</ErrorDescription>
+    <SecondaryPrintersList />
+    <ReceiptCultureInfo>el-GR</ReceiptCultureInfo>
+    <PrintType>PrintWhole</PrintType>
+  </PrintResultModel>
+  <PrintResultModel>
+    <Id>9eea0ab1-4b62-4382-9d89-3ba71bb4074b</Id>
+    <ReceiptReceiveType>WEB</ReceiptReceiveType>
+    <ProcessDateTime>2020-07-22T12:24:54.5909411+03:00</ProcessDateTime>
+    <ReceiptNo>315</ReceiptNo>
+    <OrderNo>3941</OrderNo>
+    <ReceiptData />
+    <Status>Failed</Status>
+    <ReceiptType>Receipt</ReceiptType>
+    <ExtcerType>Generic</ExtcerType>
+    <FiscalName>EXREC</FiscalName>
+    <InvoiceIndex>1</InvoiceIndex>
+    <IsInvoiceIndexError>false</IsInvoiceIndexError>
+    <rseq>0</rseq>
+    <IsReportIndexError>false</IsReportIndexError>
+    <ErrorDescription>The invoice type is not registered!</ErrorDescription>
+    <SecondaryPrintersList />
+    <ReceiptCultureInfo>el-GR</ReceiptCultureInfo>
+    <PrintType>PrintWhole</PrintType>
+  </PrintResultModel>
+  <PrintResultModel>
+    <Id>c5b1cc35-64a1-4a1b-b1b5-0ad5f81f1068</Id>
+    <ReceiptReceiveType>WEB</ReceiptReceiveType>
+    <ProcessDateTime>2020-07-22T12:32:37.3810591+03:00</ProcessDateTime>
+    <ReceiptNo>316</ReceiptNo>
+    <OrderNo>3942</OrderNo>
+    <ReceiptData>
+      <string>                  PELEMAR S.A.               </string>
+      <string>          ANEMOS LUXURY GRAND RESORT         </string>
+      <string>     ΞΕΝΟΔΟΧΕΙΑΚΗ  ΕΜΠΟΡΙΚΗ ΕΤΑΙΡΙΑ Α.Ε.     </string>
+      <string>         ΑΦΜ:998063265  ΔΟΥ ΑΒ ΧΑΝΙΩΝ        </string>
+      <string>==========================================</string>
+      <string>               RECEPTION                </string>
+      <string>==========================================</string>
+      <string>Απόδειξη Λιανικής                  316</string>
+      <string>==========================================</string>
+      <string>1    x BLOUSES DRY            2,65  24%</string>
+      <string>ΕΚΠΤΩΣΗ ΕΙΔΟΥΣ                  0,00</string>
+      <string>==========================================</string>
+      <string>ΣΥΝΟΛΟ                          2,65 Euro</string>
+      <string>CASH                              2,65</string>
+      <string>ΡΕΣΤΑ</string>
+      <string />
+      <string>ΣΕΡΒΙΤΟΡΟΣ: Admin Admin                   </string>
+      <string>ΤΡΑΠΕΖΙ: </string>
+      <string>22/07/2020                   12:32     </string>
+      <string />
+      <string>800952349E8AE0BE7C172281B524CD4CA2070BF4</string>
+      <string> 0002 00000166 2007221234 DLH77000009</string>
+      <string />
+      <string />
+    </ReceiptData>
+    <Status>Printed</Status>
+    <ReceiptType>Receipt</ReceiptType>
+    <ExtcerType>Generic</ExtcerType>
+    <FiscalName>EXREC</FiscalName>
+    <InvoiceIndex>1</InvoiceIndex>
+    <IsInvoiceIndexError>false</IsInvoiceIndexError>
+    <rseq>0</rseq>
+    <IsReportIndexError>false</IsReportIndexError>
+    <SecondaryPrintersList />
+    <ReceiptCultureInfo>el-GR</ReceiptCultureInfo>
+    <PrintType>PrintWhole</PrintType>
+  </PrintResultModel>
+  <PrintResultModel>
+    <Id>8e580645-f64e-4007-9706-910bf021bf72</Id>
+    <ReceiptReceiveType>WEB</ReceiptReceiveType>
+    <ProcessDateTime>2020-07-22T12:41:30.6483612+03:00</ProcessDateTime>
+    <ReceiptNo>317</ReceiptNo>
+    <OrderNo>3943</OrderNo>
+    <ReceiptData />
+    <Status>Failed</Status>
+    <ReceiptType>Receipt</ReceiptType>
+    <ExtcerType>Generic</ExtcerType>
+    <FiscalName>EXREC</FiscalName>
+    <IsInvoiceIndexError>false</IsInvoiceIndexError>
+    <rseq>0</rseq>
+    <IsReportIndexError>false</IsReportIndexError>
+    <ErrorDescription>The invoice type is not registered!</ErrorDescription>
+    <SecondaryPrintersList />
+    <ReceiptCultureInfo>el-GR</ReceiptCultureInfo>
+    <PrintType>PrintWhole</PrintType>
+  </PrintResultModel>
+</ArrayOfPrintResultModel>

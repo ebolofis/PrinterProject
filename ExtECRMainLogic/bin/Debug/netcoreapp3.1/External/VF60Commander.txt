@@ -1,0 +1,3 @@
+\\.\COM46
+DATA \1b[1;1HGREEN x1            
+DATA \1b[2;1H                3,40

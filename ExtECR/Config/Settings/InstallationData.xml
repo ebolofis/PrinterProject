@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallationDataMaster xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EnableCompression>false</EnableCompression>
+  <StoreId>0001eeec-752a-45cf-a214-1a868731f088</StoreId>
+  <CommunicationsUrl>https://localhost:44384/</CommunicationsUrl>
+  <ServerIPAddress>192.168.1.10</ServerIPAddress>
+  <ServerPort>4502</ServerPort>
+  <SignalR_UserName>1</SignalR_UserName>
+  <SignalR_Password>1</SignalR_Password>
+  <UseSignalR_Server>true</UseSignalR_Server>
+  <UseCommunicationServer>false</UseCommunicationServer>
+  <CrystalDataSource>ExtECR_To_Database</CrystalDataSource>
+  <CrystalUserName>sqladmin</CrystalUserName>
+  <CrystalPassword>111111</CrystalPassword>
+  <EnableDisplay>false</EnableDisplay>
+  <LcdDisplayInstance>EX-19-01</LcdDisplayInstance>
+  <DisplayCharLength>20</DisplayCharLength>
+  <DisplayType>NCR_ENG</DisplayType>
+  <DisplayComPortName>COM2</DisplayComPortName>
+  <EnableScale>false</EnableScale>
+  <ScaleInstance>EXTECR2</ScaleInstance>
+  <ScaleType>ICS_G310_TISA</ScaleType>
+  <ScaleComPortName>COM1</ScaleComPortName>
+  <EnableEFTPOS>false</EnableEFTPOS>
+  <EFTPOSInstance>EXTECR2</EFTPOSInstance>
+  <EFTPOSType>CardLink_Verifone_VX520</EFTPOSType>
+  <EFTPOS_IP_Address>192.168.1.19</EFTPOS_IP_Address>
+  <EFTPOS_TCPIP_Port>23</EFTPOS_TCPIP_Port>
+  <EnableHtmlReceipt>true</EnableHtmlReceipt>
+  <HtmlReceiptTemplate>PreBill_Report.xml</HtmlReceiptTemplate>
+  <ExtcerDetailsList>
+    <InstallationDataModel FiscalId="a3c065fd-0409-4bdc-878a-9d7042174167">
+      <InstallationType>Hotel</InstallationType>
+      <Pos>4</Pos>
+      <PosDescr>1</PosDescr>
+      <DepartmentDesc>1</DepartmentDesc>
+      <Department>1</Department>
+      <FiscalName>ECR-666</FiscalName>
+      <ExtcerType>Generic</ExtcerType>
+      <OposDeviceName>MicADHME</OposDeviceName>
+      <Opos3Com>COM1</Opos3Com>
+      <VAT>12345678</VAT>
+      <ErgoSpd3EmptyJournal xsi:nil="true" />
+      <JournalPath>C:\Journal</JournalPath>
+      <OposMaxString>25</OposMaxString>
+      <GenericExtraZeroPrice xsi:nil="true" />
+      <OposSupportOldERGO xsi:nil="true" />
+      <OposMethodOfPaymentCASH>1</OposMethodOfPaymentCASH>
+      <GenericGraphicBold>false</GenericGraphicBold>
+      <GenericGraphicFontSize>14</GenericGraphicFontSize>
+      <OposMethodOfPaymentCC>4</OposMethodOfPaymentCC>
+      <OposMethodOfPaymentCREDIT>3,5,2</OposMethodOfPaymentCREDIT>
+      <HDMPort>0</HDMPort>
+      <HDMCaisherLogin>0</HDMCaisherLogin>
+      <EpsonFiscalComPort>5</EpsonFiscalComPort>
+    </InstallationDataModel>
+    <InstallationDataModel FiscalId="3be26c4b-837a-44d2-8d37-219ca317c5f9">
+      <InstallationType>Hotel</InstallationType>
+      <FiscalName>EXT-POS1</FiscalName>
+      <ExtcerType>Generic</ExtcerType>
+      <OposDeviceName xsi:nil="true" />
+      <ErgoSpd3EmptyJournal xsi:nil="true" />
+      <JournalPath>C:\Journal</JournalPath>
+      <OposMaxString>25</OposMaxString>
+      <GenericExtraZeroPrice xsi:nil="true" />
+      <OposSupportOldERGO xsi:nil="true" />
+      <GenericGraphicBold>false</GenericGraphicBold>
+      <GenericGraphicFontSize>14</GenericGraphicFontSize>
+      <HDMPort>0</HDMPort>
+      <HDMCaisherLogin>0</HDMCaisherLogin>
+      <EpsonFiscalComPort xsi:nil="true" />
+    </InstallationDataModel>
+  </ExtcerDetailsList>
+</InstallationDataMaster>
